@@ -1,0 +1,58 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 h2{
+  font-weight: bold; 
+  color: lightcoral;
+}
+
+a .home-link{
+  color:lightseagreen;
+  background-color: orange;
+}
+
+ul {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#main-title {
+    text-align: center;
+    background-color: navy;
+}
+
+.header {
+  color: lightcoral;
+}
+
+.sub-header {
+    color:seagreen;
+    background-color:snow;
+}
+
+.nav {
+    text-align: center;
+    font-weight: bold;
+    background-color:plum;
+}
+
+.description {
+    background-color:royalblue;
+    color: white;
+    font-size: 18px;
+}
+
+.ingredient-list {
+    background-color: skyblue;
+}
+
+.recipe-list {
+    background-color: springgreen;
+    color: white;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
